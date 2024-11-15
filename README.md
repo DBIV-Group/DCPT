@@ -116,11 +116,6 @@ Located in `Sequence/`:
 - Format: Excel spreadsheets
 - Collected by Tobii Pro Glasses 2
 
-## Sample Data
-
-Currently, we provide a sample dataset demonstrating the data format and structure. The complete dataset will be released upon paper publication.
-
-
 
 ## Acknowledgments
 
