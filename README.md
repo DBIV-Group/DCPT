@@ -1,4 +1,4 @@
-# DCPT : **Driver multi-modal dataset for L3 takeover scenario**
+# DCPT : **Multi-Modal Dataset on Drivers' Cognitive and Physical States in L3 Takeover Scenarios**
 
 ## Overview
 
