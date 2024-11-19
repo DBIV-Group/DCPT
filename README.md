@@ -4,6 +4,9 @@
 
 This repository contains a specialized dataset of driver takeover responses in automated driving scenarios, including upper-body video,first-person view videos, eye-tracking and head motion data recordings. The dataset will be made public following the publication of our research paper.
 
+## Dataset Samples
+You can download the dataset samples from [Google Drive](https://drive.google.com/drive/folders/1cmO_KJQGt5pIueB8z77ILDe5P7ZsEnVu?usp=sharing).
+
 ## Dataset Structure
 
 The repository is organized into four main folders:
