@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive dataset of driver takeover responses in automated driving scenarios, including upper-body video,first-person view videos, eye-tracking and head motion data recordings. The dataset will be made public following the publication of our research paper.
+This repository contains a specialized dataset of driver takeover responses in automated driving scenarios, including upper-body video,first-person view videos, eye-tracking and head motion data recordings. The dataset will be made public following the publication of our research paper.
 
 ## Dataset Structure
 
@@ -86,7 +86,7 @@ Located in `First_person_view_video/` with two subfolders:
    - Unprocessed footage
 
 2. ```
-   Upper_body_video_processed/
+   First_person_view_video_processed/
    ```
 
    - 2-second clips before take-over moment
